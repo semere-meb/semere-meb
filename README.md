@@ -1,20 +1,11 @@
 # Hey, I'm Semere 👋
 
-I'm a software engineering student at **42 School** and Cyberscurity student at IU, building systems from the ground up — from low-level C to full-stack apps. I care deeply about clean architecture, code maintainability, and solving real problems for real communities.
-
-Currently building [**LinkHabesha**](https://github.com/semere-meb) — a dating app for the Eritrean & Ethiopian diaspora, built with Flutter and Supabase.
-
----
-
 ## 🧠 About Me
 
 - 🎓 **BSc Computer Engineering** — Eritrea Institute of Technology
 - 🔐 **MSc Cyber Security** (in progress) — International University of Applied Sciences
 - 💻 Also grinding through **42 School** — project-based, peer-reviewed, no lectures
-- 🛠️ I work on everything from maze renderers and puzzle solvers to mobile apps
 - 🐧 Daily driver: **Arch Linux** + dwm + Helix — minimal by design
-- 📐 I enjoy mathematics: Fourier analysis, integration, algorithm proofs
-- 🌍 Building tech for the Habesha diaspora community
 
 ---
 
@@ -40,23 +31,6 @@ Currently building [**LinkHabesha**](https://github.com/semere-meb) — a dating
 ![Helix](https://img.shields.io/badge/Helix-281733?style=flat-square&logoColor=white)
 ![dwm](https://img.shields.io/badge/dwm-1E1E2E?style=flat-square&logoColor=white)
 
----
-
-## 🚀 Current Projects
-
-### 🔗 [LinkHabesha](https://github.com/semere-meb)
-A location-aware dating app for the Eritrean & Ethiopian diaspora.
-- **Stack:** Flutter · Supabase · Riverpod · PostGIS
-- **Auth:** Phone (Twilio Verify) · Google · Apple
-- **Focus:** Maintainable architecture, GitFlow, RLS policies, real-time messaging
-
-### 🏫 42 School — Python Modules
-Working through OOP-heavy Python projects: ABC, Protocol, duck typing, generators, decorators, and cooperative multiple inheritance.
-
-### 🌀 a-maze-ing (42 School)
-A maze renderer/navigator using the `mlx` Python library on Arch Linux with dwm — low-level pixel manipulation via `memoryview`.
-
----
 
 ## 📊 GitHub Stats
 
