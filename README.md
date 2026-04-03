@@ -32,25 +32,6 @@
 ![dwm](https://img.shields.io/badge/dwm-1E1E2E?style=flat-square&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semere-meb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semere-meb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semere-meb&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 📬 Get in Touch
-
-- 🐙 GitHub: [@semere-meb](https://github.com/semere-meb)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=semere-meb&style=flat-square&color=6e40c9" alt="Profile views" />
 </p>
