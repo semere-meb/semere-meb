@@ -2,16 +2,16 @@
 
 A passionate **Software Engineer and Linux System Administrator** currently studying Software Engineering at **42 Berlin** and pursuing a **Master of Cyber Security** at IU International University of Applied Sciences.
 
-I thrive at the intersection of robust backend development, system automation (IaC), and secure network infrastructure.
+Focusing on backend development, system automation, and network security.
 
 ---
 
 ### 🚀 Highlights & Current Focus
 
-- 🎓 **Software Engineering @ 42 Berlin**: Deep diving into systems programming, custom virtualization, and network architectures.
-- 🛡️ **M.Sc. Cyber Security**: Expanding my expertise in risk assessment, network forensics, compliance, and systems hardening.
-- 🐳 **Infrastructure & Homelab**: Personally maintaining a fully declarative, reproducible NixOS homelab on Proxmox, hosting my portfolio and a private Git server.
-- 🌍 **Relocation**: Based in Berlin, Germany. Open to opportunities across Germany!
+- 🎓 **Software Engineering @ 42 Berlin**: Systems programming, virtualization, and network architecture.
+- 🛡️ **M.Sc. Cyber Security**: Security risk management, forensics, and systems hardening.
+- 🐳 **Infrastructure & Homelab**: Reproducible, declarative NixOS on Proxmox hosting self-hosted services.
+- 🌍 **Relocation**: Based in Berlin, Germany. Open to opportunities nationwide.
 
 ---
 
@@ -42,17 +42,17 @@ I thrive at the intersection of robust backend development, system automation (I
 ### 📂 Featured Open Source & Projects
 
 #### 🌐 [**Portfolio Homelab & VPS**](https://semeremeb.com)
-Personally administered VPS running NixOS on Proxmox with a fully declarative, flake-based configuration — infrastructure defined entirely as code, with the complete system state reproducible from version-controlled config.
-- **Self-hosted Forgejo Server** for personal repos and continuous integration.
-- **WireGuard VPN** for secure remote access to internal homelab services.
+Declarative NixOS configuration on Proxmox VPS. Defined entirely as code with reproducible states.
+- **Self-hosted Forgejo Server** for personal repositories and continuous integration.
+- **WireGuard VPN** for secure remote access to internal services.
 - *Technologies*: NixOS, Nix Flakes, Forgejo, WireGuard, Proxmox, CI/CD.
 
 #### 🏫 [**Campus Management System (EIMS)**](https://github.com/semere-meb/EIMS)
-Developed, optimized, and deployed a fully managed campus management system at the Eritrea Institute of Technology using Proxmox and Docker to scale administrative workflows.
+Campus administrative system developed and scaled using Docker and Proxmox.
 - *Technologies*: Docker, Proxmox, Backend APIs, Shell Scripting.
 
 #### 🐳 [**Inception (42 Berlin)**](https://github.com/semere-meb/Inception)
-A system administration project building a multi-container Docker infrastructure with Nginx, WordPress, and MariaDB entirely from scratch under strict configuration guidelines.
+Multi-container Docker infrastructure (Nginx, WordPress, MariaDB) built completely from scratch.
 - *Technologies*: Docker, Nginx, MariaDB, Alpine Linux.
 
 ---
